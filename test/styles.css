@@ -1,0 +1,10 @@
+.navbar-list{
+    background-color: #dad3c9;
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    padding: 0%;
+    margin: 0%;
+list-style-type: none;
+}
+
